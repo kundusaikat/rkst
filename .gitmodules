@@ -1,0 +1,6 @@
+[submodule "rkst-admin"]
+	path = rkst-admin
+	url = https://github.com/kundusaikat/rkst-admin.git
+[submodule "rkst-customer"]
+	path = rkst-customer
+	url = https://github.com/kundusaikat/rkst-customer.git
