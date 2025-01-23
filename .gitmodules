@@ -4,3 +4,6 @@
 [submodule "rkst-customer"]
 	path = rkst-customer
 	url = https://github.com/kundusaikat/rkst-customer.git
+[submodule "rkst-api"]
+	path = rkst-api
+	url = https://github.com/kundusaikat/rkst-api.git
